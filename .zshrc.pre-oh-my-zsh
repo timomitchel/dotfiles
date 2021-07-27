@@ -1,0 +1,3 @@
+
+PROMPT='%1~🧐'
+eval "$(rbenv init -)"
